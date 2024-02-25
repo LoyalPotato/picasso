@@ -21,6 +21,7 @@ The MVP will require:
   - [ ] Drag/panning
 - [ ] Basic Swatch Color Picker
 - [ ] Good mouse tracking (in the very first trial, there's some spacing between painting)
+- [ ] File saving/opening
 
 ## Features that I'm interested in implementing
 
