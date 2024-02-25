@@ -26,6 +26,7 @@ The MVP will require:
 ## Features that I'm interested in implementing
 
 - Infinite canvas support
+- Undo/Redo
 - Canvas size configuration
 - Line thickness configuration
 - Different types of painting tools (airbrush, soft brush, square brush, round brush, etc.)
