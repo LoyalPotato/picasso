@@ -14,9 +14,22 @@ At the moment of writing, this is really in an initial state. I'm still learning
 
 The MVP will require:
 
-- Tools
-  - Eraser
-  - Pen/Pencil
-  - Bucket
-- Basic Swatch Color Picker
-- Good mouse tracking (in the very first trial, there's some spacing between painting)
+- Tools (toolbar)
+  - [ ] Eraser
+  - [ ] Pen/Pencil
+  - [ ] Bucket
+  - [ ] Drag/panning
+- [ ] Basic Swatch Color Picker
+- [ ] Good mouse tracking (in the very first trial, there's some spacing between painting)
+
+## Features that I'm interested in implementing
+
+- Infinite canvas support
+- Canvas size configuration
+- Line thickness configuration
+- Different types of painting tools (airbrush, soft brush, square brush, round brush, etc.)
+- Pen pressure support
+- Zoom in/out
+- Better color picker (full color wheel, hsl, rgb, rgba, etc)
+
+I also would like to be able to use this on the web. At the moment, the only possible way I see it is WASM, but even that I'd still need to confirm.
